@@ -84,7 +84,7 @@ body{
   background-color: #E8EFF4;
 }
 h1 {
-  margin: 0px;
+  margin: 0;
 }
 
 .site-title {
