@@ -5,13 +5,13 @@
 <template>
     <div class="footer">
         <div class="bildL">
-        <img src="src/assets/STZH_SEB_Logo.png" class="img3">
+        <img src="../assets/STZH_SEB_Logo.png" class="img3">
         </div>
         <div class="bildM">
-        <img src="src/assets/Opportunity.png" class="img1">
+        <img src="../assets/Opportunity.png" class="img1">
         </div>
         <div class="bildR">
-        <img src="src/assets/SAG_Logo_De.png" class="img2">
+        <img src="../assets/SAG_Logo_De.png" class="img2">
         </div>
     </div>
 </template>
